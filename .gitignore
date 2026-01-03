@@ -1,0 +1,16 @@
+# Frontend
+node_modules/
+dist/
+build/
+
+# Backend
+target/
+*.log
+
+# Env
+.env
+
+# IDE
+.idea/
+.vscode/
+.DS_Store
